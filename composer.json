@@ -1,0 +1,20 @@
+{
+  "name": "phpolar/property-injector-contract",
+  "description": "Unifies property injector implementations",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Phpolar\\PropertyInjectorContract\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Eric Fortmeyer",
+      "email": "e.fortmeyer01@gmail.com"
+    }
+  ],
+  "require": {},
+  "suggest": {
+    "phpolar/property-injector": "A property injection implementation"
+  }
+}
