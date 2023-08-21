@@ -1,6 +1,6 @@
 {
   "name": "phpolar/property-injector-contract",
-  "description": "Unifies property injector implementations",
+  "description": "Unifies property injector implementations.",
   "license": "MIT",
   "autoload": {
     "psr-4": {
